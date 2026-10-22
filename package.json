@@ -1,0 +1,23 @@
+{
+  "name": "vo-mau-toan-thanh-webapi",
+  "version": "1.0.0",
+  "description": "Backend WebAPI Hệ thống Điểm danh Sinh viên Đa tầng - Võ Mẫu Toàn Thanh (Nhóm TSV)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "flutter",
+    "webapi",
+    "attendance",
+    "toanthanh",
+    "tsv"
+  ],
+  "author": "Võ Mẫu Toàn Thanh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
